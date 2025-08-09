@@ -22,7 +22,7 @@
 
 ## دموی آنلاین
 این پروژه به کمک GitHub Pages به‌صورت آنلاین قابل مشاهده است:  
-[مشاهده پروژه](https://USERNAME.github.io/REPO-NAME)
+[مشاهده پروژه](https://armin-panahi.github.io/SHOW-PASSWORD-INPUT/)
 
 ---
 
